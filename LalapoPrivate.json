@@ -1,5 +1,5 @@
 {
-  "tokens": [
+  "allowed_tokens": [
     "8074494110:AAHIyh73n8tKcz0JJBUUU84f_6CP8xW-500",
     "7794227039:AAE1kuARpiWD3lvVVrNi8M-gU9v8ZT6io1s",
     "7879658345:AAEF47nbr2r9QC59pOfUuyV2S56gKQG1iq0",
@@ -19,7 +19,6 @@
     "8096152195:AAGldxNwTCOdVtXgEToLlpC8WZdFiveD4lI",
     "8038173173:AAFyScugK0ECfPsF72VEMOdngd1FdlOkv10",
     "7367893359:AAGdVsbEpRDQaiKV-EXPTbUx5FyJHMSoqbI",
-    "7991201804:AAFqKkh2Q2x8HCLC9rPz3HlUOlPFiUz1q3g",
-    "Placeholder_Token"
+    "7991201804:AAFqKkh2Q2x8HCLC9rPz3HlUOlPFiUz1q3g"
   ]
 }
